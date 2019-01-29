@@ -1,0 +1,64 @@
+body{
+    background-color:grey;
+    color: white;
+    width: 960px;
+
+} 
+
+Header{
+    background-color: lightgray;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    color: grey;
+    }
+
+nav{
+    background-color: lightgray;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    color: grey;
+}
+
+section{
+    background-color: lightgrey;
+    float:left;
+    margin-left: 20px;
+    width: 450px;
+    height: 250px;
+    margin-right: 10px;
+}
+
+article{
+    background-color: grey;
+}
+
+div{
+    background-color:lightgrey;
+    width: 960px;
+}
+
+aside{
+    background-color: lightgrey;
+    float: left;
+    padding-right: 0px;
+    width: 450px;
+    margin-right: 20px;
+    height: 250px;
+    margin-left: 10px;
+
+    
+    
+
+    
+}
+
+footer{
+    background-color:lightgrey;
+    margin:20px;
+    padding: 30px;
+    text-align: center;
+    color: grey;
+    clear: both;
+}
